@@ -1,5 +1,5 @@
 #!/bin/bash
-#to my beloved Chell
+#To my beloved Chell
 
 white='\e[97m'
 purple='\e[35m'
