@@ -21,5 +21,5 @@ if [ $# -eq 2 ]; then
         fi
     done
 else
-    printf "Usage:\n${white}potfile2essid_n_pass.sh${noColor} ${purple}hashcat.potfile${noColor} ${cyan}hash.hc22000${noColor}\n\n"
+    printf "Usage:\n${white}$0${noColor} ${purple}hashcat.potfile${noColor} ${cyan}hash.hc22000${noColor}\n\n"
 fi
